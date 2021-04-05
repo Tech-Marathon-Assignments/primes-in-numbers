@@ -1,4 +1,4 @@
-from .primes import main
+from main import main
 
 
 # * Testcase 1
