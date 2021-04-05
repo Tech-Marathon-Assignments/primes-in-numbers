@@ -1,46 +1,22 @@
-# Instructions
-
-## Setup
-
-- Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-- To activate virtual environment, on Windows:
-
-```bash
-.\venv\Scripts\activate
-```
-
-on MacOS or Linux:
-
-```bash
-source venv\bin\activate
-```
-
-- Install require package:
-
-```bash
-pip install autopep8 pylint pytest
-```
-
-## Coding and checking
-
-- Write down your solution in main.py.
-- You can test your code by changing the parameters in the main function caller.
-- When you're finished, check your solution by opening the command prompt and type "py.test" or "pytest test_main".
-- When everything is done, submit your assignment and our autograding system will grade your assignment.
-
-## Submission
-
-```bash
-git add .
-git commit -m "submit *insert solution name*"
-git push
-```
-
-# Video instruction
-
-Link: \*_insert link here_\*
+astroid==2.5.2
+atomicwrites==1.4.0
+attrs==20.3.0
+autopep8==1.5.6
+colorama==0.4.4
+importlib-metadata==3.10.0
+iniconfig==1.1.1
+isort==5.8.0
+lazy-object-proxy==1.6.0
+mccabe==0.6.1
+packaging==20.9
+pluggy==0.13.1
+py==1.10.0
+pycodestyle==2.7.0
+pylint==2.7.4
+pyparsing==2.4.7
+pytest==6.2.3
+toml==0.10.2
+typed-ast==1.4.2
+typing-extensions==3.7.4.3
+wrapt==1.12.1
+zipp==3.4.1
