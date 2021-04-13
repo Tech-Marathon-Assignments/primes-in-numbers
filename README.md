@@ -1,3 +1,9 @@
+# Problem statement
+
+**Đề bài**: Viết chương trình tìm các số nguyên tố trong một dãy số.
+
+**Problem**: Write a program to find the prime numbers within a range of numbers.
+
 # Instructions
 
 ## Setup
